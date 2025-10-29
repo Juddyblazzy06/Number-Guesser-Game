@@ -188,7 +188,7 @@ npm test
 
 This project is created for the Web3Bridge Cohort XIV Pre-Qualification Exercise.
 
-## 👨‍💻 Author
+## 👨‍💻 Author: Jude Amiens
 
 Created with ❤️ for Web3Bridge
 
